@@ -1,4 +1,4 @@
-# Learn Modern CMake By Examples
+# Modern CMake By Examples
 
 A simple repository which contains some modern CMake configurations for different scenarios. All the examples can be build by run `Allmake` script in their own directory.
 
